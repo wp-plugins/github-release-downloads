@@ -3,7 +3,7 @@ Contributors: ivanrf
 Donate link: http://ivanrf.com/
 Tags: github, release, releases, download, downloads, download count, download url, download link, download list, release downloads, latest version, shortcode, shortcodes
 Requires at least: 3.0
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
