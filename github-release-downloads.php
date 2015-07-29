@@ -3,7 +3,7 @@
  * Plugin Name: GitHub Release Downloads
  * Plugin URI: http://ivanrf.com/github-release-downloads/
  * Description: Get the download count, links and more information for releases of GitHub repositories.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ivan Ridao Freitas
  * Author URI: http://ivanrf.com/
  * Text Domain: github-release-downloads
@@ -47,7 +47,7 @@ function grd_download_count_func( $atts ) {
 
 function get_release_download_count( $release ) {
     $total_downloads = 0;
-    foreach ($release->assets as $asset)
+    foreach ((array) $release->assets as $asset)
         $total_downloads += $asset->download_count;
     return $total_downloads;
 }

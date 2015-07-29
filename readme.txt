@@ -3,8 +3,8 @@ Contributors: ivanrf
 Donate link: http://ivanrf.com/
 Tags: github, release, releases, download, downloads, download count, download url, download link, download list, release downloads, latest version, shortcode, shortcodes
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 1.0.0
+Tested up to: 4.2.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,6 +88,9 @@ You'll find more information at [ivanrf.com](http://ivanrf.com/github-release-do
 3. GitHub Release Downloads options page.
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor fix for a PHP warning.
 
 = 1.0 =
 * Initial release.
