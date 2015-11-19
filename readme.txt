@@ -52,7 +52,7 @@ Examples
 * Specific release downloads: `[grd_list user="IvanRF" repo="MassiveFileRenamer" tag="v1.5.6"]`
 * Hide file size:             `[grd_list user="IvanRF" repo="MassiveFileRenamer" hide_size="true"]`
 * Hide downloads count:       `[grd_list user="IvanRF" repo="MassiveFileRenamer" hide_downloads="true"]`
-* Downloads suffix change:    `[grd_list user="IvanRF" repo="MassiveFileRenamer" downloads_suffix=" descargas"]`
+* Downloads suffix change:    `[grd_list user="IvanRF" repo="MassiveFileRenamer" downloads_suffix="descargas"]`
 
 Boolean attributes can take any of this values: "1", "true", "on" and "yes"; or "0", "false", "off" and "no".
 
@@ -91,6 +91,7 @@ You'll find more information at [ivanrf.com](http://ivanrf.com/en/github-release
 
 = 1.1.0 =
 * Added i18n support for strings and download count.
+* Added Spanish translation.
 * Added Settings link in the Plugins list.
 * Added Donate and Follow Me links.
 

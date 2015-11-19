@@ -1,0 +1,133 @@
+# Copyright (C) 2015 GitHub Release Downloads
+# This file is distributed under the same license as the GitHub Release Downloads package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GitHub Release Downloads 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/github-release-"
+"downloads\n"
+"POT-Creation-Date: 2015-11-18 21:37-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-11-18 22:01-0300\n"
+"Language-Team: Iván Ridao Freitas <info@ivanrf.com>\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: Ivan Ridao Freitas <info@ivanrf.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: github-release-downloads.php:37
+msgid "Settings"
+msgstr "Ajustes"
+
+#: github-release-downloads.php:107
+msgid "1 download"
+msgid_plural "%s downloads"
+msgstr[0] "1 descarga"
+msgstr[1] "%s descargas"
+
+#: github-release-downloads.php:205
+msgid "GitHub username can not be empty"
+msgstr "El nombre de usuario de GitHub no puede estar vacío"
+
+#: github-release-downloads.php:207
+msgid "GitHub repository name can not be empty"
+msgstr "El nombre del repositorio de GitHub no puede estar vacío"
+
+#: github-release-downloads.php:209
+msgid "GitHub repository not found"
+msgstr "El repositorio de GitHub no se ha encontrado"
+
+#: github-release-downloads.php:214
+msgid "GitHub repository has no releases"
+msgstr "El repositorio de GitHub no tiene releases"
+
+#: github-release-downloads.php:219
+msgid "Shortcode Error: %s"
+msgstr "Error en el Shortcode: %s"
+
+#: github-release-downloads.php:243
+msgid "GitHub Release Downloads Options"
+msgstr "GitHub Release Downloads Opciones"
+
+#: github-release-downloads.php:250
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: github-release-downloads.php:255
+msgid "GitHub Release Downloads Settings"
+msgstr "GitHub Release Downloads Ajustes"
+
+#: github-release-downloads.php:258
+msgid ""
+"Set values for the GitHub username and the repository name to use by default "
+"in the shortcodes."
+msgstr ""
+"Defina los valores del nombre de usuario y el repositorio de GitHub para "
+"utilizarlos de forma predeterminada en los shortcodes."
+
+#: github-release-downloads.php:261
+msgid "User"
+msgstr "Usuario"
+
+#: github-release-downloads.php:265
+msgid "Repository"
+msgstr "Repositorio"
+
+#: github-release-downloads.php:272
+msgid "Need help?"
+msgstr "Necesitas ayuda?"
+
+#: github-release-downloads.php:273
+msgid "Learn how to use the plugin at %s."
+msgstr "Aprende cómo usar el plugin en %s."
+
+#: github-release-downloads.php:275
+msgid "Help"
+msgstr "Ayuda"
+
+#: github-release-downloads.php:276
+msgid "Support"
+msgstr "Soporte"
+
+#: github-release-downloads.php:279
+msgid "Donate"
+msgstr "Donar"
+
+#: github-release-downloads.php:280
+msgid "If you want to do something really nice for me..."
+msgstr "Si quieres hacer algo por mí..."
+
+#: github-release-downloads.php:280
+msgid "Buy me a beer"
+msgstr "Invítame una cerveza"
+
+#: github-release-downloads.php:282
+msgid "Follow Me"
+msgstr "Sígueme"
+
+#. Plugin Name of the plugin/theme
+msgid "GitHub Release Downloads"
+msgstr "GitHub Release Downloads"
+
+#. Plugin URI of the plugin/theme
+msgid "http://ivanrf.com/en/github-release-downloads/"
+msgstr "http://ivanrf.com/github-release-downloads/"
+
+#. Description of the plugin/theme
+msgid ""
+"Get the download count, links and more information for releases of GitHub "
+"repositories."
+msgstr ""
+"Permite obtener la cantidad de descargas, links y más información de las "
+"Releases de un repositorio de GitHub."
+
+#. Author of the plugin/theme
+msgid "Ivan Ridao Freitas"
+msgstr "Iván Ridao Freitas"
+
+#. Author URI of the plugin/theme
+msgid "http://ivanrf.com/en/"
+msgstr "http://ivanrf.com/"
