@@ -1,10 +1,10 @@
 === GitHub Release Downloads ===
 Contributors: ivanrf
-Donate link: http://ivanrf.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RFBN78SQEZR4E
 Tags: github, release, releases, download, downloads, download count, download url, download link, download list, release downloads, latest version, shortcode, shortcodes
 Requires at least: 3.0
-Tested up to: 4.2.3
-Stable tag: 1.0.1
+Tested up to: 4.3.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Get the download count, links and more information for releases of GitHub reposi
 
 == Description ==
 
-[GitHub Release Downloads](http://ivanrf.com/github-release-downloads/) allows you to get the download count, links and more information for releases of GitHub repositories.
+[GitHub Release Downloads](http://ivanrf.com/en/github-release-downloads/) allows you to get the download count, links and more information for releases of GitHub repositories.
 
 = Download count =
 
@@ -79,7 +79,7 @@ Attribute values take precedence over default values. For example, `[grd_count r
 
 == Frequently Asked Questions ==
 
-You'll find more information at [ivanrf.com](http://ivanrf.com/github-release-downloads/).
+You'll find more information at [ivanrf.com](http://ivanrf.com/en/github-release-downloads/).
 
 == Screenshots ==
 
@@ -89,6 +89,11 @@ You'll find more information at [ivanrf.com](http://ivanrf.com/github-release-do
 
 == Changelog ==
 
+= 1.1.0 =
+* Added i18n support for strings and download count.
+* Added Settings link in the Plugins list.
+* Added Donate and Follow Me links.
+
 = 1.0.1 =
 * Minor fix for a PHP warning.
 
@@ -97,4 +102,4 @@ You'll find more information at [ivanrf.com](http://ivanrf.com/github-release-do
 
 == Upgrade Notice ==
 
-You'll find more information at [ivanrf.com](http://ivanrf.com/github-release-downloads/).
+You'll find more information at [ivanrf.com](http://ivanrf.com/en/github-release-downloads/).
